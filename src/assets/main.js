@@ -1,6 +1,6 @@
 $(function() {
   $.ajax({
-    url: "https://www.codeschool.com/users/ChuckHan.json",
+    url: "https://www.codeschool.com/users/1250549.json",
     dataType: 'jsonp',
     success: function (response) {
       console.log(response);
